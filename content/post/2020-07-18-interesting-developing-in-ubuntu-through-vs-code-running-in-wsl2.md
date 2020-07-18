@@ -1,6 +1,7 @@
 ---
 layout: blog
-title: "Interesting: Developing in Ubuntu through VS Code, running in WSL2"
+title: "Interesting: Developing in Ubuntu through VS Code, running in WSL2 on
+  Windows 10"
 date: 2020-07-18T20:29:58.859Z
 thumbnail: /images/GitHub-repo-for-my-blog.png
 ---
