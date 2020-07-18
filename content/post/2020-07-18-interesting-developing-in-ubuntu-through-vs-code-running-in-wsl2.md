@@ -39,3 +39,9 @@ I already had VSCode installed on the Windows side, by the way. And that's impor
 > The short answer is probably, depending on if there are Linux versions of the tools, IDEs and such that you'll need for your specific program. It works fine for mine.
 >
 > ![](/images/linked-lists-in-java-on-a-chromebook.jpg "Linked Lists in Java on a Chromebook")
+>
+> I'll continue to kick the tires of WSL2 because it's an interesting project by Microsoft. And I'd be remiss if I didn't mention Scott Hanselman who has been sharing information, tips and tricks about it for well over a year.
+>
+> Indeed, this 45 minute video of his may seem long, but I learned more than 45 things about using WSL for development. It's well worth the watch.
+>
+>
