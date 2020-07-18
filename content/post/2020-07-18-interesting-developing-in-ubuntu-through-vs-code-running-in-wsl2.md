@@ -44,4 +44,6 @@ I already had VSCode installed on the Windows side, by the way. And that's impor
 >
 > Indeed, this 45 minute video of his may seem long, but I learned more than 45 things about using WSL for development. It's well worth the watch.
 >
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/j0PPcUUtHlw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+>
 >
