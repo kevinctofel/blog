@@ -1,7 +1,7 @@
 [about]
 title = ""
 description = ""
-logo = "/images/logo.png"
+logo = "/images/logo.jpg"
 
 [breadcrumbs]
 separator = "/"
@@ -10,7 +10,7 @@ excludeParents = ["page"]
 [recent_posts]
 title = ""
 length = 10
-excludeTypes = ["page"]
+# excludeTypes = ["page"]
 
 [search]
 title = "Search"
