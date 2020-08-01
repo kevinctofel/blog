@@ -21,7 +21,7 @@ This week, I got watching a bunch of YouTube videos discussing air-cooling vs. l
 
 You know what happened next.
 
-![](assets/liquid-cooled-aio.jpg)
+![](/liquid-cooled-aio.jpg)
 
 Yup, I ordered [a $120 all-in-one liquid CPU cooler](https://www.ekwb.com/shop/ek-aio-240-d-rgb) and installed it today. And it works great - CPU temps are way down, which helps performance. And I get nice customizable LEDs, which is bonus. 
 
